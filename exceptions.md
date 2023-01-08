@@ -1,0 +1,2 @@
+> Podemos destacar que a exceção é um evento não esperado que ocorre no sistema quando está em tempo de execução (Runtime). 
+> Geralmente quando o sistema captura alguma exceção o fluxo do código fica interrompido.
