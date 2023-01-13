@@ -8,3 +8,6 @@ Classes são modelos da vida vida real deixando para o sistema do mundo real e e
 
 ### Pacotes 
 Agrupamento de classes que tem uma relação ou propósito semelhante.
+
+
+[Fonte de Livros](https://glysns.gitbook.io/java-basico/sintaxe/variaveis)
