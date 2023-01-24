@@ -27,5 +27,17 @@ Agrupamento de classes que tem uma relação ou propósito semelhante.
   - HashMap;
   - TreeMap.
 
-## 
+## Arrays 
+> São utilizados para agrupar dados (elementos) do mesmo tipo de forma similar o que ocorre em outra linguagens de programação.
+
+``
+int [] distancias; // declarando uma variável do tipo Array de inteiros
+distancias = new int[8]; // inicializando a variável com 8 elementos (posições)
+``
+
+A variável do tipo Reference (objeto), neste mesmo caso, pode ser inicializada na mesma linha:
+
+``
+double[] notas = new double[5];
+``
 
