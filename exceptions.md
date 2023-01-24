@@ -10,3 +10,22 @@ Classes são modelos da vida vida real deixando para o sistema do mundo real e e
 Agrupamento de classes que tem uma relação ou propósito semelhante.
 
 [Fonte de Livros](https://glysns.gitbook.io/java-basico/sintaxe/variaveis)
+
+
+# Coleções em Java
+1. Arrays
+  - Varargs
+2. Listas
+  - ArrayList
+  - Generics
+  - Ordenação de listas
+3. Conjuntos
+  - HashSet;
+  - LinkedHashSet;
+  - TreeSet
+4. Mapas
+  - HashMap;
+  - TreeMap.
+
+## 
+
