@@ -3,9 +3,9 @@
 ~~~~java
 public class Funcionario
 {
-	protected String matricula;
-	protected String nome;
-	protected double salario;
+	private String matricula;
+	private String nome;
+	private double salario;
 	private Endereco endereco;
 	
 	public void receberSalario()
